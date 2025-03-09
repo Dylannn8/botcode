@@ -5,7 +5,7 @@
 
 // setting your list menu on here
 const menu = {
-   main: ["help", "speed", "owner", "sc", "ping", "quoted"],
+   main: ["help", "en"],
 }
 
 const limit = {

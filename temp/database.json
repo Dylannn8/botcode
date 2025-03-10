@@ -143,6 +143,46 @@
       "VIP": false,
       "name": "Jeyy",
       "banned": false
+    },
+    "51917348461@s.whatsapp.net": {
+      "limit": 15,
+      "lastChat": 1741566501071,
+      "premium": false,
+      "VIP": false,
+      "name": "dos pasos adelante",
+      "banned": false
+    },
+    "59162327629@s.whatsapp.net": {
+      "limit": 15,
+      "lastChat": 1741566636737,
+      "premium": false,
+      "VIP": false,
+      "name": "ASTRA (अस्त्र)  (arma en sanscrito)",
+      "banned": false
+    },
+    "573223256961@s.whatsapp.net": {
+      "limit": 15,
+      "lastChat": 1741566668850,
+      "premium": false,
+      "VIP": false,
+      "name": "Stiven",
+      "banned": false
+    },
+    "573116034350@s.whatsapp.net": {
+      "limit": 15,
+      "lastChat": 1741567596726,
+      "premium": false,
+      "VIP": false,
+      "name": "卐༺ɎØⱤĐ₳₦_₦₳Ⱬł₴༻卐",
+      "banned": false
+    },
+    "5492993248363@s.whatsapp.net": {
+      "limit": 15,
+      "lastChat": 1741568059751,
+      "premium": false,
+      "VIP": false,
+      "name": "hellking",
+      "banned": false
     }
   },
   "groups": {
@@ -166,6 +206,12 @@
     },
     "573117196618-1608317617@g.us": {
       "lastChat": 1741555672218,
+      "mute": false,
+      "welcome": true,
+      "leave": true
+    },
+    "120363378953671368@g.us": {
+      "lastChat": 1741567195598,
       "mute": false,
       "welcome": true,
       "leave": true

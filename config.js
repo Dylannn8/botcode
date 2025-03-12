@@ -5,7 +5,7 @@
 
 // setting your list menu on here
 const menu = {
-   main: ["help", "en"],
+   main: ["help", "en", "crear", "ngrok" ],
 }
 
 const limit = {

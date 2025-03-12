@@ -24,6 +24,7 @@ git clone https://github.com/Dylannn8/botcode
 cd botcode
 npm install
 npm install express
+npm install ngrok
 wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-arm64.tgz
 tar -xvzf ngrok-v3-stable-linux-arm64.tgz
 mv ngrok /data/data/com.termux/files/usr/bin
@@ -51,6 +52,7 @@ git clonehttps://github.com/Dylannn8/botcode
 cd botcode
 npm install
 npm install express
+npm install ngrok
 wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz
 tar -xvzf ngrok-v3-stable-linux-amd64.tgz
 sudo mv ngrok /usr/local/bin

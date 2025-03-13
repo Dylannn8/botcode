@@ -23,14 +23,7 @@ pkg install git nodejs wget unzip -y
 git clone https://github.com/Dylannn8/botcode
 cd botcode
 npm install
-npm install express
-npm install ngrok
-wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-arm64.tgz
-tar -xvzf ngrok-v3-stable-linux-arm64.tgz
-mv ngrok /data/data/com.termux/files/usr/bin
-chmod +x /data/data/com.termux/files/usr/bin/ngrok
-mkdir -p ~/.config/ngrok
-ngrok --version
+bash install.sh
 ```
 
 3. Inicia el bot:
